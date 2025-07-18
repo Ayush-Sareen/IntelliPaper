@@ -2,6 +2,7 @@
 
 SummarAIze is an AI-powered web application built with **Streamlit** that summarizes academic research papers into concise, easy-to-read summaries. Just upload your `.pdf` file and get a readable summary in seconds — perfect for researchers, students, and professionals who want to save time.
 
+link of google colab ->  https://colab.research.google.com/drive/1qivgnCT-51Q82RcBOwrCB0CV4ZkLNaiI?usp=sharing
 
 ---
 
